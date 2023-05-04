@@ -1,4 +1,4 @@
-# MiningLife
+# muj Miner
 This unity project was created for my module "Advanced programming" in TBU.
 
 
