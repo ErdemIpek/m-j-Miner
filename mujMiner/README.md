@@ -1,17 +1,8 @@
 # MiningLife
-This unity project was created for my module "Computer Games Development" in MSc. Computer Games Systems at the Nottingham Trent University.
-The code provided is by no means perfect. The main task was to create an aspect of a game within a specific time frame
-and I just had to implement the procedural generated level even though it meant more complexity.
-
-Tasks:
-1.	You are required to identify, research and plan a game prototype, and document this process in a Specification Document.
-As part of the process you need to produce a Specification Document. 
-2.	You are required to create and demonstrate a game prototype in the final week of the course.
+This unity project was created for my module "Advanced programming" in TBU.
 
 
-Youtube: 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=0u7H_4k5UlY&t=31s" target="_blank"><img src="http://img.youtube.com/vi/0u7H_4k5UlY&t=31s/0.jpg" 
-alt="Mining Life Video" width="240" height="180" border="10" /></a>
+
 
 Gameplay description:
 
@@ -41,6 +32,6 @@ vertical direction. After a specific amount of movement downwards a new set of t
 Based on the current position and a random factor, various kinds of tiles with different mining
 difficulty will be instantiated. This results in a higher difficulty the deeper the player gets to. The
 game is not meant to end at a specific level, but this can be changed depending on the final
-playability. Mining Life is targeting the PC only but due to the simple input control this can be altered
+playability. muj Miner is targeting the PC only but due to the simple input control this can be altered
 to any platform easily.
 
